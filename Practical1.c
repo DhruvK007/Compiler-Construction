@@ -11,7 +11,7 @@ int main(){
             return 0;
         }
     }
-
+    
     if(str[strlen(str)-2] == 'b' && str[strlen(str)-1] == 'b'){
         printf("Valid String");
     }else{
